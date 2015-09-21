@@ -3,6 +3,11 @@
 % sequence for training and convert the synthesized video to GRAY for
 % comparison.
 
+% Reference:
+%  [1] R. Costantini, L. Sbaiz, S. Susstrunk, Higher order svd analysis for
+%  dynamic texture synthesis, Image Processing, IEEE Transactions on 17 (1)
+%  (2008) 42-52.
+
 % Copy the mat file from "..\Experimental Results\2. Video for Test\" for
 % testing.
 
