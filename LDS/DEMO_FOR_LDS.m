@@ -2,7 +2,7 @@
 
 % Reference:
 % [1] G. Doretto, A. Chiuso, Y. N. Wu, S. Soatto, Dynamic textures, 
-% International Journal of Computer Vision 51 (2) (2003) 91¨C109.
+% International Journal of Computer Vision 51 (2) (2003) 91-109.
 
 % Copy the mat file from "..\Experimental Results\2. Video for Test\" for
 % testing.
