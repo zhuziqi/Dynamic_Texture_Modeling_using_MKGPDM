@@ -24,7 +24,7 @@ im = getfield(mov,{1,1},'cdata');
 
 % Save the DT sequence as a array
 for i = 1:tau
-    temp = double(getfield(mov,{1,i},'cdata'));    
+    temp = double(rgb2gray(getfield(mov,{1,i},'cdata')));    
     fft_temp_gray = fft2(temp);    
     Y_fft(:,:,i) = fft_temp_gray(:);
     Y_gray(:,i) = temp(:);
